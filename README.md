@@ -1,3 +1,3 @@
 # [Idat](https://github.com/elliotgaramendi/idat)
 
-En este repositorio 📂 muestro cómo voy aprendiendo 🧑‍💻 desde cero ⚛️ y poco a poco de Idat 🧠 y <>Elliot Leo Garamendi Sarmiento</>, las tecnologías de mi interés 🚀 y todo lo relacionado al Frontend 🌌💻.
+En este repositorio 📂 muestro cómo voy aprendiendo 🧑‍💻 desde cero ⚛️ y poco a poco de Idat 🧠 y <>Elliot Leo Garamendi Sarmiento</>, las tecnologías de mi interés 🚀 y todo lo relacionado al Frontend 🌌💻. Estoy explorando lenguajes como HTML5, CSS3, JavaScript, y frameworks como React ⚛️ y Vue.js 🌱. Además, me gusta compartir mis avances y retos 💪 para que otros aprendan junto a mí. ¡Sigue mi viaje de crecimiento y desarrollo personal! 🚀👨‍💻
